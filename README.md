@@ -98,3 +98,9 @@ curl -X POST \
 - [OpenAI Whisper Audio Integration](https://js.langchain.com/docs/modules/data_connection/document_loaders/integrations/file_loaders/)
 - [OpenAI Chat Models Integration](https://js.langchain.com/docs/modules/model_io/models/chat/integrations/openai)
 - [Summarization Chain](https://js.langchain.com/docs/modules/chains/popular/summarize)
+
+## Output Example
+
+Here is an example of the output you can expect from the audio transcription and summarization process:
+
+![Audio Transcription and Summarization Output](https://github.com/user-attachments/assets/881d0f80-c2a8-4972-8d01-f7d586eb7984)
