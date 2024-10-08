@@ -24,9 +24,6 @@ This project provides a solution for transcribing and summarizing audio using th
 - **Server:** Backend service for handling audio transcription and summarization
   - [Server Repository](https://github.com/Aadhishreevijay/Audio-Transcribe-and-Summary-using-Whisper-API/tree/main/server)
 
-- **Only Transcribe:** A standalone service for audio transcription, separate from the main project
-  - [Standalone Transcribe Repository](https://github.com/Aadhishreevijay/Audio-Transcribe-and-Summary-using-Whisper-API/tree/main/only%20transcribe)
-
 ## Getting Started
 
 ### Client
@@ -68,16 +65,9 @@ This project provides a solution for transcribing and summarizing audio using th
 
 - **Ensure the Backend is Running:** Before starting the React client, make sure the backend server is up and running. The frontend relies on the backend for audio transcription and summarization.
 
-- **Standalone Transcribe Service:** The `only transcribe` directory contains a standalone service for audio transcription. This service operates independently and can be used without the full frontend and backend setup. For more details, visit the [Standalone Transcribe Repository](https://github.com/Aadhishreevijay/Audio-Transcribe-and-Summary-using-Whisper-API/tree/main/only%20transcribe).
-
 - **Debugging:** For easier debugging, especially to monitor network requests and responses, it is recommended to install browser extensions:
   - [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/)
   - [React Developer Tools for Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
-
-### Testing
-
-To test the APIs, you can use the Postman collection provided:
-- [Postman Collection for Transcription](https://github.com/Aadhishreevijay/Audio-Transcribe-and-Summary-using-Whisper-API/tree/main/only%20transcribe(postman%20-%20only%20backedn))
 
 ### Audio Samples
 
